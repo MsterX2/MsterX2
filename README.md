@@ -1,6 +1,6 @@
 # Hola, soy Abel 👋
 
-Soy estudiante de grado en Matemáticas y desarrollador web en formación. Me apasiona aprender nuevas tecnologías, crear proyectos prácticos con **Python, Django y Flask**, y resolver problemas de programación competitiva.
+Soy estudiante de grado en Matemáticas y desarrollador fullstack. Me apasiona aprender nuevas tecnologías, crear proyectos prácticos con **Python, Django y Flask**, y resolver problemas de programación competitiva.
 
 ---
 
